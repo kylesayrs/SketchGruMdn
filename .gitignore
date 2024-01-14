@@ -1,0 +1,5 @@
+wandb/
+*.pkl
+drawings/
+*.pth
+__pycache__/
